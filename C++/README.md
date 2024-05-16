@@ -6,11 +6,11 @@ Here is a list of the files and a short discription of what they do
 # BitBlt1.cpp
 This is the main payload of chlorine it rapidly flashes the screen like its broken! The speed depends on the speed of you CPU
 
-![img](pics/bitblt (1).png)
+![img](pics/bitblt1.png)
 
-![img](pics/bitblt (2).png)
+![img](pics/bitblt2.png)
 
-![img](pics/bitblt (3).png)
+![img](pics/bitblt3.png)
 
 # IconHell.cpp 
 Running this file draws alot of icons on the screen. this is executed just befor the end of the malware.
