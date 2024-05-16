@@ -5,9 +5,12 @@ Here is a list of the files and a short discription of what they do
 
 # BitBlt1.cpp
 This is the main payload of chlorine it rapidly flashes the screen like its broken! The speed depends on the speed of you CPU
-![img](bitblt (1).png)
-![img](bitblt (2).png)
-![img](bitblt (3).png)
+
+![img](pics/bitblt (1).png)
+
+![img](pics/bitblt (2).png)
+
+![img](pics/bitblt (3).png)
 
 # IconHell.cpp 
 Running this file draws alot of icons on the screen. this is executed just befor the end of the malware.
@@ -27,7 +30,7 @@ This will overwrite the master boot record on the primary storage drive (C:) (Or
 
 # mousedraw.cpp 
 Running this will spawn error icons on the mouses path!
-![img](mousedraw.png)
+![img](pics/mousedraw.png)
 
 # noise.cpp
 Running this will play the file "noise.wav" in the same directory as noise.cpp
@@ -36,4 +39,4 @@ Running this will play the file "noise.wav" in the same directory as noise.cpp
 This makes some cool waves on the screen! it is the secondary payload to chlorine, it runs 20 seconds prior to BitBlt1.cpp
 Some computers have different results, some make it scan down the screen slowly, and some really mess up the screen but just waving it back and forth
 like this
-![img](sussywaves.exe.png)
+![img](pics/sussywaves.exe.png)
