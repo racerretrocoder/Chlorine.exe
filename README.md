@@ -32,3 +32,10 @@ Each executable will have the cpp source in the folder new sourc
 The payload sequence is the vbs script for the version you want. Compile the source using vbs to exe
 Adding all the files in new sourc to the embed in vbs to exe
 for cpp stuff use g++
+
+# Disclaimer and warning
+
+The file Chlorine 3.0.exe WILL Overwrite the first 5mb of your harddrive. After you press yes. 
+The file Chlroine 3.0-clean.exe Will Not overwrite the 5mb of your harddrive. after you press yes.
+The clean version is harmless. it will not deal permenant damage to your operatibg system
+# Creators not response able for the damage done by chlorine 3.0.exe or any source code that is destructive
