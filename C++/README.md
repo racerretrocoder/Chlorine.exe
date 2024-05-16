@@ -13,7 +13,8 @@ This is the main payload of chlorine it rapidly flashes the screen like its brok
 ![img](pics/bitblt3.png)
 
 # IconHell.cpp 
-Running this file draws alot of icons on the screen. this is executed just befor the end of the malware.
+Running this file draws alot of icons on the screen. this is executed just before bsod and beep, the end of the malware.
+Bitblt is still running when this happens, so it looks like the screen broke
 ![img](pics/iconhell.png)
 
 
