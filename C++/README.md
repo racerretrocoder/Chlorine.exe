@@ -8,6 +8,8 @@ This is the main payload of chlorine it rapidly flashes the screen like its brok
 
 # IconHell.cpp 
 Running this file draws alot of icons on the screen. this is executed just befor the end of the malware.
+![img](iconhell.png)
+
 
 # beep.cpp
 beeps the pc speaker and spawns 2 msg boxes. runs with iconhell
@@ -22,6 +24,7 @@ This will overwrite the master boot record on the primary storage drive (C:) Pre
 
 # mousedraw.cpp 
 Running this will spawn error icons on the mouses path
+![img](mousedraw.png)
 
 # noise.cpp
 Running this will play the file "noise.wav" in the same directory as noise.cpp
