@@ -14,7 +14,7 @@ This is the main payload of chlorine it rapidly flashes the screen like its brok
 
 # IconHell.cpp 
 Running this file draws alot of icons on the screen. this is executed just befor the end of the malware.
-![img](iconhell.png)
+![img](pics/iconhell.png)
 
 
 # beep.cpp
