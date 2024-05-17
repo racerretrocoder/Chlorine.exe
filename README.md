@@ -37,5 +37,7 @@ for cpp stuff use g++
 
 The file Chlorine 3.0.exe WILL Overwrite the first 5mb of your harddrive. After you press yes. 
 The file Chlroine 3.0-clean.exe Will Not overwrite the 5mb of your harddrive. after you press yes.
+
 The clean version is harmless. it will not deal permenant damage to your operatibg system
-# Creators not response able for the damage done by chlorine 3.0.exe or any source code that is destructive
+Creators not response able for the damage done by chlorine 3.0.exe or any source code that is destructive
+This is for education purposes only
